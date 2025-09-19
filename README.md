@@ -14,7 +14,7 @@ JourneyCraft AI is an AI-powered itinerary planner designed to simplify group tr
 
 Watch the video demonstration of **JourneyCraft AI** in action:  
 
-[![Watch the Video](https://github.com/Akshat7garg/JourneyCraft-AI/blob/main/public/Landing_page.png)](https://drive.google.com/file/d/1j430WWCjAKjjbMlV29CQVFMG_-lDTpdS/view?usp=sharing)
+[![Watch the Video](https://github.com/shubhamtyagi21/JourneyCraft-AI/blob/main/public/Landing_page.png)](https://drive.google.com/file/d/1j430WWCjAKjjbMlV29CQVFMG_-lDTpdS/view?usp=sharing)
 
 [https://drive.google.com/file/d/1j430WWCjAKjjbMlV29CQVFMG_-lDTpdS/view?usp=sharing](https://drive.google.com/file/d/1j430WWCjAKjjbMlV29CQVFMG_-lDTpdS/view?usp=sharing)
 
@@ -22,7 +22,7 @@ Watch the video demonstration of **JourneyCraft AI** in action:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Akshat7garg/JourneyCraft-AI.git
+git clone https://github.com/shubhamtyagi21/JourneyCraft-AI.git
 cd JourneyCraft-AI
 ```
 
